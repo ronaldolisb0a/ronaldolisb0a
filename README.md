@@ -1,4 +1,7 @@
 # Hello 👨🏻‍💻
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 <div>
   <a href="https://github.com/ronaldolisb0a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldolisb0a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
