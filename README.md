@@ -1,4 +1,4 @@
-# Hello 👨🏻‍💻
+# Hello, I'm Ronaldo Silva, I'm a Full-Stack Programmer.👨🏻‍💻
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
@@ -18,13 +18,9 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
 <div> 
   <a href="https://instagram.com/pr.ronaldolisboa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:pr.ronaldolisboa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://inkedin.com/in/ronaldo-lisboa-40a878234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ronaldolisb0a/ronaldolisb0a/blob/output/github-contribution-grid-snake.svg)
 
 </div>
